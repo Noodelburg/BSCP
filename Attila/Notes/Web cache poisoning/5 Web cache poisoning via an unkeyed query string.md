@@ -1,3 +1,6 @@
+OBS!
+***kom på i efterhand att det inte spelade någon roll vad querysträngen var, kunde lika gärna använt `/?jahsdjadhs=asddsada`*** 
+
 1. Körde param miner på *Guess everything!* fick fram nedan, notera `?image=` 
 ###### Secret uncached input: url
 ```
